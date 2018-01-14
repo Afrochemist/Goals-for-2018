@@ -1,29 +1,54 @@
 ---
 title: "Goals for 2018"
-output: revealjs::revealjs_presentation
+output:
+  revealjs::revealjs_presentation:
+    theme: solarized
+    highlight: pygments
+    center: true
 ---
 
-## R Markdown
+# Main Objectives
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+##
+-Become a better data science
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+-Contribute to open source projects
 
-## Slide with Bullets
+-Write an e-book
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+#Jan-Mar
 
-## Slide with R Code and Output
+##Objectives
+-Actuarial Science
 
-```{r}
-summary(cars)
-```
+-Exploratory Data Analysis
 
-## Slide with Plot
+-Machine Learning
 
-```{r, echo=FALSE}
-plot(cars)
-```
+-Read about Sports Analytics
 
+
+
+#Apr-Jun
+
+##Objectives
+-Contribute to Open Source Projects
+
+-Participate in group collaborations
+
+
+#Jul-Sept
+
+##Objectives
+-Drafting topics for a blog
+
+-Do public speaking
+
+
+
+#Oct-Dec
+
+##Objective
+-Create data science blog
+
+-Write an e-book
